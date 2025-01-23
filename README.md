@@ -7,17 +7,8 @@ Une application Flutter pour un quiz interactif, avec un design élégant et une
 ### Page de connexion
 <img src="screenshots/connexion.png" alt="Connexion" width="300">
 
-### Menu Drawer
-<img src="screenshots/drawer.png" alt="Drawer" width="300">
-
 ### Formulaire
 <img src="screenshots/formulaire.png" alt="Formulaire" width="300">
-
-### Historique
-<img src="screenshots/historique.png" alt="Historique" width="300">
-
-### Page d'accueil
-<img src="screenshots/home.png" alt="Home" width="300">
 
 ### Inscription
 <img src="screenshots/inscription.png" alt="Inscription" width="300">
