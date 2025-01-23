@@ -1,16 +1,32 @@
-# quiz
+# Mon Projet Flutter - Quiz App
 
-A new Flutter project.
+Une application Flutter pour un quiz interactif, avec un design élégant et une navigation fluide.
 
-## Getting Started
+## Captures d'écran
 
-This project is a starting point for a Flutter application.
+### Page de connexion
+![Connexion](screenshots/connexion.png)
 
-A few resources to get you started if this is your first Flutter project:
+### Menu Drawer
+![Drawer](screenshots/drawer.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Formulaire
+![Formulaire](screenshots/formulaire.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Historique
+![Historique](screenshots/historique.png)
+
+### Page d'accueil
+![Home](screenshots/home.png)
+
+### Inscription
+![Inscription](screenshots/inscription.png)
+
+### Quiz (en cours)
+![Quiz](screenshots/quiz.png)
+
+### Quiz complété
+![Quiz complet](screenshots/quiz_complete.png)
+
+### Page d'accueil (Welcome)
+![Welcome](screenshots/welcome.png)
