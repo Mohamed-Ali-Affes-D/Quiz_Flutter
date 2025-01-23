@@ -5,28 +5,28 @@ Une application Flutter pour un quiz interactif, avec un design élégant et une
 ## Captures d'écran
 
 ### Page de connexion
-![Connexion](screenshots/connexion.png)
+<img src="screenshots/connexion.png" alt="Connexion" width="300">
 
 ### Menu Drawer
-![Drawer](screenshots/drawer.png)
+<img src="screenshots/drawer.png" alt="Drawer" width="300">
 
 ### Formulaire
-![Formulaire](screenshots/formulaire.png)
+<img src="screenshots/formulaire.png" alt="Formulaire" width="300">
 
 ### Historique
-![Historique](screenshots/historique.png)
+<img src="screenshots/historique.png" alt="Historique" width="300">
 
 ### Page d'accueil
-![Home](screenshots/home.png)
+<img src="screenshots/home.png" alt="Home" width="300">
 
 ### Inscription
-![Inscription](screenshots/inscription.png)
+<img src="screenshots/inscription.png" alt="Inscription" width="300">
 
 ### Quiz (en cours)
-![Quiz](screenshots/quiz.png)
+<img src="screenshots/quiz.png" alt="Quiz" width="300">
 
 ### Quiz complété
-![Quiz complet](screenshots/quiz_complete.png)
+<img src="screenshots/quiz_complete.png" alt="Quiz complet" width="300">
 
 ### Page d'accueil (Welcome)
-![Welcome](screenshots/welcome.png)
+<img src="screenshots/welcome.png" alt="Welcome" width="300">
